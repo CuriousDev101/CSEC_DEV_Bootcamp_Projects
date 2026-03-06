@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+  font-family: "Arial", "Helvetica", "sans-serif"
+}
+
+@layer components {
+  .active {
+    @apply text-[#2563eb];
+  }
+
+  .completed {
+    @apply text-[#16a34a];
+  }
+
+  .total {
+    @apply text-white;
+  }
+}
