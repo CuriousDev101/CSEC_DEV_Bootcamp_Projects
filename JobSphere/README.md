@@ -2,12 +2,37 @@
 
 JobSphere is a job search application built with React, TypeScript, and Tailwind CSS. It allows users to search for jobs by location, job type, salary range, and more. The application also includes a feature to save jobs for future reference.
 
+This project use backend api from json-server the data is in data/db.json. The Backend api is for local development only.
+The Backend api is on [JobSphereAPI](https://github.com/CuriousDev101/CSEC_DEV_Bootcamp_Projects/tree/main/JobSphereAPI) Github repo 
+
 ## Features
 
 - Search for jobs by location, job type, salary range, and more.
 - Save jobs for future reference.
 - User authentication and authorization.
 - Responsive design for mobile and desktop devices.
+
+## Technologies
+
+- React
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit
+- React Query
+- Formik
+- Yup
+
+## Screenshots
+
+![JobSphere Screenshot](https://github.com/CuriousDev101/CSEC_DEV_Bootcamp_Projects/blob/main/assets/public/ScreencastFrom2026-03-2923-28-30.gif)
+
+## Routes Overview
+
+- `/`: Home page
+- `/auth/login`: Login page
+- `/users/signup`: Signup page
+- `/jobs`: Jobs page
+- `/jobs/:id`: Job details page
 
 ## Installation
 

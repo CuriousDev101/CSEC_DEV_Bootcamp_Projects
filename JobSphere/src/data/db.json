@@ -87,6 +87,30 @@
       "email": "mehebocozo@mailinator.com",
       "password": "Pa$$w0rd!",
       "confirmPassword": "Pa$$w0rd!"
+    },
+    {
+      "id": "dee8",
+      "firstName": "Blake",
+      "lastName": "Hendrix",
+      "email": "sohysec@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "confirmPassword": "Pa$$w0rd!"
+    },
+    {
+      "id": "4273",
+      "firstName": "Morgan",
+      "lastName": "Strong",
+      "email": "menucy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "confirmPassword": "Pa$$w0rd!"
+    },
+    {
+      "id": "653b",
+      "firstName": "Beck",
+      "lastName": "Owen",
+      "email": "huwux@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "confirmPassword": "Pa$$w0rd!"
     }
   ],
   "jobs": [
@@ -487,7 +511,7 @@
       "description": "Develop software for embedded devices.",
       "company": "Tesla",
       "logo": "https://logos.hunter.io/tesla.com",
-      "isBookMarked": false,
+      "isBookMarked": true,
       "location": "Palo Alto, USA",
       "experienceLevel": "Mid Level",
       "currency": "USD",
@@ -500,7 +524,7 @@
       "description": "Work on both frontend and backend components.",
       "company": "LinkedIn",
       "logo": "https://logos.hunter.io/linkedin.com",
-      "isBookMarked": false,
+      "isBookMarked": true,
       "location": "Sunnyvale, USA",
       "experienceLevel": "Mid Level",
       "currency": "USD",
