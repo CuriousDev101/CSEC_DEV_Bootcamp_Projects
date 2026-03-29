@@ -24,7 +24,7 @@ The Backend api is on [JobSphereAPI](https://github.com/CuriousDev101/CSEC_DEV_B
 
 ## Screenshots
 
-![JobSphere Screenshot](https://github.com/CuriousDev101/CSEC_DEV_Bootcamp_Projects/blob/main/assets/public/ScreencastFrom2026-03-2923-28-30.gif)
+![JobSphere Screenshot](https://github.com/CuriousDev101/CSEC_DEV_Bootcamp_Projects/blob/main/JobSphere/public/ScreencastFrom2026-03-2923-28-30.gif)
 
 ## Routes Overview
 
